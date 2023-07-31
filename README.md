@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fezeka-tech
 - 👀 I’m interested in Data Science, Analytics and Pyschology.
 - 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate on Research.
+- 💞️ Please shoot me a message to view my private repositories.
 - 📫 How to reach me: Email: fezekann@gmail.com
 
 <!---
